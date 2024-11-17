@@ -43,6 +43,7 @@
   <!-- System -->
   <project path="system/core" name="system_core" groups="pdk" remote="ProjectBlaze" />
   <project path="system/sepolicy" name="system_sepolicy" groups="pdk" remote="ProjectBlaze" />
+  <project path="system/update_engine" name="system_update_engine" groups="pdk" remote="ProjectBlaze" />
 
   <!-- Begin Extras -->
 
