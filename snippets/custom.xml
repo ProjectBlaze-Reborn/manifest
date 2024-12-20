@@ -5,9 +5,9 @@
            fetch="https://github.com/ProjectBlaze-Reborn"
            revision="refs/heads/15" />
 
-  <remote  name="PixelOS-Gitlab"
-           fetch="https://gitlab.com/PixelOS-AOSP"
-           revision="refs/heads/fifteen" />
+  <remote  name="ProjectBlaze-Gitlab"
+           fetch="https://gitlab.com/apaosha"
+           revision="refs/heads/15" />
 
   <!-- Rootdir -->
   <project path="bionic" name="bionic" groups="pdk" remote="ProjectBlaze" />
@@ -71,6 +71,6 @@
   <!-- Vendor -->
   <project path="vendor/blaze" name="vendor_blaze" remote="ProjectBlaze" />
   <project path="vendor/custom-preference" name="vendor_custom-preference" remote="ProjectBlaze" />
-  <project path="vendor/gms" name="vendor_gms" clone-depth="1" remote="PixelOS-Gitlab" />
+  <project path="vendor/gms" name="vendor_gms" clone-depth="1" remote="ProjectBlaze-Gitlab" />
 
 </manifest>
