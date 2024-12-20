@@ -69,7 +69,9 @@
 
   <!-- Vendor -->
   <project path="vendor/blaze" name="vendor_blaze" remote="ProjectBlaze" />
+  <project path="vendor/bcr" name="vendor_bcr" remote="ProjectBlaze" />
   <project path="vendor/custom-preference" name="vendor_custom-preference" remote="ProjectBlaze" />
+  <project path="vendor/gcgop" name="vendor_gcgop" remote="ProjectBlaze" />
   <project path="vendor/gms" name="vendor_gms" clone-depth="1" remote="ProjectBlaze-Gitlab" />
 
 </manifest>
