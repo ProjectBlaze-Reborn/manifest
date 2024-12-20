@@ -63,6 +63,7 @@
   <project path="packages/apps/TouchGestures" name="packages_apps_TouchGestures" remote="ProjectBlaze" />
   <project path="packages/apps/BlazeHouse" name="packages_apps_BlazeHouse" remote="ProjectBlaze" />
   <project path="packages/apps/GameSpace" name="packages_apps_GameSpace" remote="ProjectBlaze" />
+  <project path="packages/apps/LMOFreeform" name="packages_apps_LMOFreeform" remote="ProjectBlaze" />
 
   <!-- Overlays -->
   <project path="packages/overlays/Themes" name="packages_overlays_Themes" remote="ProjectBlaze" />
