@@ -45,6 +45,7 @@
   <!-- Android 15 QPR0 -->
   <project path="build/release" name="build_release" groups="pdk,tradefed" remote="ProjectBlaze" />
   <project path="external/skia" name="external_skia" groups="pdk,qcom_msm8x26" remote="ProjectBlaze" />
+  <project path="external/giflib" name="external_giflib" groups="pdk,qcom_msm8x26" remote="ProjectBlaze" />
   <project path="frameworks/base" name="frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="ProjectBlaze" />
   <project path="frameworks/native" name="frameworks_native" groups="pdk" remote="ProjectBlaze" />
   <project path="packages/apps/DocumentsUI" name="packages_apps_DocumentsUI" groups="pdk-cw-fs,pdk-fs" remote="ProjectBlaze" />
@@ -52,6 +53,7 @@
   <project path="packages/modules/Permission" name="packages_modules_Permission" groups="pdk-cw-fs,pdk-fs" remote="ProjectBlaze" />
   <project path="packages/modules/Wifi" name="packages_modules_Wifi" groups="pdk-cw-fs,pdk-fs" remote="ProjectBlaze" />
   <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" groups="pdk-cw-fs,pdk-fs" remote="ProjectBlaze" />
+  <project path="packages/services/Telephony" name="packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" remote="ProjectBlaze" />
 
   <!-- Begin Extras -->
 
